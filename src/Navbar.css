@@ -40,7 +40,7 @@
 
 .navbar-elements a.active {
   color: var(--activeColor);
-  font-weight: 700;
+  font-weight: 600;
   position: relative;
 }
 
