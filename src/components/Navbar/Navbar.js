@@ -16,6 +16,7 @@ export default function NavBar() {
         style={{
           backgroundColor: "#f1efe2",
         }}
+        b
       >
         <div className="container">
           <div className="logo">
